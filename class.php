@@ -37,8 +37,5 @@ class Fraction
 
 //Создание Объекта
 $a = new Fraction(2,3);// это идет в функцию выше в скобкиконтрусктора ()
-//Инициализация
-$fraction->numerator=1;
-$fraction->denominator=2;
 
 
