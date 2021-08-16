@@ -20,7 +20,7 @@ class Fraction
 //сложение
     public function add(int $number)
 {
-
+    $this->numerator = $this->denominator * $number + $this->numerator; // прибавляем знаментаель с числом и плюсуем к ним числитель
 
 }
 
